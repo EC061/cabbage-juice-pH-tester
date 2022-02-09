@@ -32,6 +32,6 @@ Temporary Items
 .apdisk
 
 # Environmental variable
-.env
+env.py
 
 # End of https://www.toptal.com/developers/gitignore/api/macos

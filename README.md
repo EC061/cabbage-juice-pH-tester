@@ -1,4 +1,4 @@
-# Chemical pH tester
+# Chemical pH Tester
 This repo includes electrical diagrams and micropython code to operate a chemical based pH tester with ESP8266 micro controller.
 
 ## Environmental Variable

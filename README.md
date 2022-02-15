@@ -22,3 +22,4 @@ A "env.py" file with the following items is needed for the operation of the prov
 * External RTC (DS3231)
 
 ## Project Report
+[Complete Project Report in PDF](ProjectReport.pdf)

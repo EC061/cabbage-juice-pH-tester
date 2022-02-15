@@ -7,3 +7,18 @@ A "env.py" file with the following items is needed for the operation of the prov
 * password = "wifi password"
   * You may need to turn on compatibility mode for the ESP8266 controler as it only support older standards for wireless connections.
 * WRITE_API_KEY = "your thingspeak api key"
+
+## Parts List
+* 3V relay electrical switch (2)
+* 3V submersible pump (2)
+* White LED (2)
+* Plastic colored filters (Red & Blue)
+* Light sensor TSL2591
+* Rubber tubes
+* 3D printed housing
+* 3D printed reservoir for dye
+* Buoyant platform
+* Microcontroller (ESP8266)
+* External RTC (DS3231)
+
+## Project Report

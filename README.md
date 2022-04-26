@@ -6,7 +6,7 @@ A "env.py" file with the following items is needed for the operation of the prov
 * ssid = "your designated wifi name"
 * password = "wifi password"
   * You may need to turn on compatibility mode for the ESP8266 controler as it only support older standards for wireless connections.
-* WRITE_API_KEY = "your thingspeak api key"
+* WRITE_API_KEY = "your thingspeak api key"      \*\***Requirement**\*\*
 
 ## Parts List
 * 3V relay electrical switch (2)

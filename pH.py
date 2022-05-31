@@ -84,6 +84,7 @@ def start(totalTest):
                         str(t_external_blue.hour) + "-" + str(t_external_blue.minute) + "-" + str(t_external_blue.second))
         print(timeStamp_blue, ', blue light: ',  lux_data_blue)
         blueLED.value(0)
+        sleep_ms(1000)
 
         redLED.value(1)
         full_red, ir_red = light_sensor.get_full_luminosity()
